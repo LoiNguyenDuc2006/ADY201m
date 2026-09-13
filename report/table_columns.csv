@@ -1,0 +1,6 @@
+column,reason,decision
+ts,time/unit key,keep for feature building
+traffic,target,keep
+loc,time/unit key,keep for feature building
+outage,correlation with target 0.02,consider dropping
+cloud_inc,correlation with target 0.01,consider dropping

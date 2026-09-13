@@ -1,0 +1,6 @@
+﻿.venv
+data/raw
+data/processed
+*.parquet
+*.duckdb
+.env

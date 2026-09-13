@@ -1,0 +1,3 @@
+step,rows_before,rows_after,dropped,reason
+drop duplicates,174680,174680,0,same unit and timestamp
+drop missing target,174680,174680,0,cannot be forecast

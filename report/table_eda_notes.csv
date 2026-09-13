@@ -1,0 +1,3 @@
+column,note
+outage,"strongly skewed, consider log or tree models"
+cloud_inc,"strongly skewed, consider log or tree models"
