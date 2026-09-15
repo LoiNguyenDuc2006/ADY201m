@@ -1,0 +1,12 @@
+feature,group
+traffic,exogenous/structural
+t_lag1,lag/rolling
+t_lag24,lag/rolling
+t_lag168,lag/rolling
+t_ma24,lag/rolling
+rel_w,exogenous/structural
+outage,exogenous/structural
+cloud_inc,exogenous/structural
+hr,calendar
+dow,calendar
+loc_code,exogenous/structural

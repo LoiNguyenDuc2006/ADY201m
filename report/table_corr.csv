@@ -1,4 +1,4 @@
 ,traffic,outage,cloud_inc
-traffic,1.0,0.02,0.005
-outage,0.02,1.0,-0.004
-cloud_inc,0.005,-0.004,1.0
+traffic,1.0,0.005,-0.001
+outage,0.005,1.0,-0.006
+cloud_inc,-0.001,-0.006,1.0

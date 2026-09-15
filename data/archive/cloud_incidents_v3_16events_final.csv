@@ -1,0 +1,17 @@
+provider,region,start,end,severity
+AWS,us-east-1,2025-10-20 06:48,2025-10-20 21:20,critical
+Azure,global,2025-10-29 15:41,2025-10-30 00:05,critical
+Azure,multi-region,2026-02-02 18:03,2026-02-03 00:30,high
+GCP,europe-west4-a,2026-07-15 23:57,2026-07-16 12:25,medium
+GCP,us-west1,2026-08-20 15:00,2026-08-20 17:22,medium
+GCP,us-central1-b,2026-09-01 14:41,2026-09-01 18:52,medium
+Azure,south-central-us,2024-12-26 18:40,2024-12-27 19:30,high
+Azure,east-us-2,2025-01-08 22:31,2025-01-11 00:44,critical
+GCP,global,2025-06-12 17:51,2025-06-13 01:18,critical
+Azure,africa-europe-apac,2025-10-09 07:50,2025-10-09 16:00,high
+Azure,azure-government,2025-12-08 16:04,2025-12-08 19:13,medium
+GCP,asia-europe-au-multi,2025-01-10 19:36,2025-01-13 14:16,medium
+AWS,us-east-1,2024-07-30 21:45,2024-07-31 04:37,high
+Azure,multi-region,2024-07-13 00:00,2024-07-13 23:35,high
+Azure,central-us,2024-07-18 21:40,2024-07-19 22:00,high
+GCP,global,2024-08-07 21:53,2024-08-08 01:44,medium
